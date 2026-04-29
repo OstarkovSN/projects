@@ -1,0 +1,7 @@
+# Tooling / MCP artifacts
+.playwright-mcp/
+.serena/
+.superpowers/
+
+# Root-level scratch screenshots
+/*.png
