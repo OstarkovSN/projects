@@ -89,7 +89,7 @@ Person
 | Solid circle + ⚠ badge + amber ring | `blocker` | Blocking issue |
 | Dashed circle (person color) | `planned` | Upcoming planned work |
 | Rotating diamond (amber→red gradient) | `pivot` | Direction change — fork point |
-| Green flag icon | `milestone` (deadline) | Hard deadline |
+| Red flag icon | `milestone` (deadline) | Hard deadline |
 
 ### 3.4 Branch Forks
 
